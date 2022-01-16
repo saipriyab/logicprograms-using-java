@@ -3,6 +3,7 @@ package com.learning;
 import java.util.HashMap;
 import java.util.Map;
 
+//in java8 getOrDefault was added
 public class HashMapGetOrDefault {
 
 	public static void main(String[] args) {
